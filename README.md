@@ -14,7 +14,7 @@ Pegger lives in your Dock and is built to instantly convert your image files (an
 
 ### Current version
 
-Visit my website at https://www.pbhachu.co.uk/pegger to get the latest version.
+Visit my website at www.pbhachu.co.uk/experiments to get the latest version.
 
 Also, you can check the version history in the [Releases](https://github.com/PBhachu/Pegger/releases) section.
 

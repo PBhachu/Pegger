@@ -8,7 +8,7 @@ assignees: PBhachu
 ---
 
 **Configuration**
-- Pegger version: [e.g. 1.3.0 (29)]
+- Peggy version: [e.g. 1.3.0 (29)]
 - macOS version: [e.g. 15.7.1 (24G231)]
 
 **Describe the bug**
